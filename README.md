@@ -6,7 +6,7 @@ markdown
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Systems+Programmer;time+%26+to+sleep;C%2FC%2B%2B+Foucs;Learning;Whoami" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Systems+Programmer;C%2FC%2B%2B+Foucs;Learning;Whoami" />
 </p>
 
 <p align="center">
