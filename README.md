@@ -5,10 +5,9 @@ I'm a curious student who enjoys learning how things work and exploring new idea
 I’m interested in:
 
 - Computer Science
-- Engineering
 - Mathematics
 - Physics
-- Space Technology
+- Quantum Computing
 
 I enjoy learning through experimentation, problem-solving, and building things.
 
@@ -22,6 +21,6 @@ Learning, experimenting, and working toward becoming a better engineer and probl
 
 ---
 
-### 📫 GitHub
+### 📫 Instagram
 
-[@rxsakthii](https://github.com/rxsakthii)
+[@rxsakthii](https://instagram.com/rxsakthii)
