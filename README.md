@@ -1,4 +1,4 @@
-````markdown
+markdown
 <!-- ===================== HEADER ===================== -->
 
 <p align="center">
