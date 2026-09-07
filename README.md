@@ -49,7 +49,7 @@ I'm developing my own Linux window manager to understand how graphical systems w
   <img src="./assets/wm-demo.gif" width="850" alt="Window Manager Demo">
 </p>
 
-> Replace `assets/wm-demo.gif` with an actual GIF/video capture of your window manager.
+<!--> Replace `assets/wm-demo.gif` with an actual GIF/video capture of your window manager.
 
 ---
 
@@ -169,27 +169,21 @@ Learning professional Git and GitHub workflows to participate effectively in col
 
 I prefer **building over only reading**.
 
-``text
-        What is it?
-             │
-             ▼
-     Why does it exist?
-             │
-             ▼
-      How does it work?
-             │
-             ▼
- How does Linux implement it?
-             │
-             ▼
- Can I build a smaller version?
-             │
-             ▼
-        Experiment
-             │
-             ▼
-          Improve
-`
+
+**What is it?**
+⬇️
+**Why does it exist?**
+⬇️
+**How does it work?**
+⬇️
+**How does Linux implement it?**
+⬇️
+**Can I build a smaller version?**
+⬇️
+**Experiment**
+⬇️           
+**Improve**
+
 
 This approach helps me turn theoretical concepts into working systems.
 
@@ -281,9 +275,9 @@ I'm especially interested in projects related to:
 
 </p>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:111827&height=100&section=footer" />
-</p>
+</p>-->
 ```
 
 **One thing to do after pasting it:** create an `assets` folder in the profile repository and put your **real WM GIF/screenshot** there. That will make the profile much more convincing than using a generic Linux image.
