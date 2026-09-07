@@ -57,7 +57,7 @@ I'm developing my own Linux window manager to understand how graphical systems w
 
 I'm working toward building my own Linux-based system and learning how the different layers of an operating system fit together.
 
-```text
+``text
 Applications
      │
      ▼
@@ -74,7 +74,7 @@ Linux Kernel
      │
      ▼
 Hardware
-````
+`
 
 ### Areas I'm studying
 
@@ -177,7 +177,7 @@ Learning professional Git and GitHub workflows to participate effectively in col
 
 I prefer **building over only reading**.
 
-```text
+``text
         What is it?
              │
              ▼
@@ -197,7 +197,7 @@ I prefer **building over only reading**.
              │
              ▼
           Improve
-```
+`
 
 This approach helps me turn theoretical concepts into working systems.
 
