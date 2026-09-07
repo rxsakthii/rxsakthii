@@ -57,24 +57,17 @@ I'm developing my own Linux window manager to understand how graphical systems w
 
 I'm working toward building my own Linux-based system and learning how the different layers of an operating system fit together.
 
-```text
-Applications
-     │
-     ▼
-Window System / Desktop
-     │
-     ▼
-System Libraries
-     │
-     ▼
-System Utilities
-     │
-     ▼
-Linux Kernel
-     │
-     ▼
-Hardware
-```
+**Applications**  
+⬇️  
+**Window System / Desktop**  
+⬇️  
+**System Libraries**  
+⬇️  
+**System Utilities**  
+⬇️  
+**Linux Kernel**  
+⬇️  
+**Hardware**
 
 ### Areas I'm studying
 
@@ -111,19 +104,18 @@ I enjoy working close to the operating system because it helps me understand **h
 
 # 🔬 Areas I'm Interested In
 
-```text
-Operating Systems
-Systems Programming
-Computer Architecture
-Compilers & Toolchains
-Linux
-Window Systems
-Computer Graphics
-Embedded / Low-Level Computing
-Aerospace & Space Technology
-Mathematics
-Physics
-```
+### 🔬 Areas I'm Interested In
+
+- Operating Systems
+- Systems Programming
+- Computer Architecture
+- Compilers & Toolchains
+- Linux
+- Window Systems
+- Computer Graphics
+- Embedded / Low-Level Computing
+- Mathematics
+- Physics
 
 ---
 
