@@ -5,6 +5,7 @@ I'm a curious student who enjoys learning how things work and exploring new idea
 I’m interested in:
 
 - Computer Science
+- Open Source
 - Mathematics
 - Physics
 - Quantum Computing
