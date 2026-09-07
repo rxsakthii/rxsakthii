@@ -278,6 +278,7 @@ I'm especially interested in projects related to:
 <!--<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:111827&height=100&section=footer" />
 </p>-->
-```
+
+
 
 **One thing to do after pasting it:** create an `assets` folder in the profile repository and put your **real WM GIF/screenshot** there. That will make the profile much more convincing than using a generic Linux image.
