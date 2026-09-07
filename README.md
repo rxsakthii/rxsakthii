@@ -57,7 +57,7 @@ I'm developing my own Linux window manager to understand how graphical systems w
 
 I'm working toward building my own Linux-based system and learning how the different layers of an operating system fit together.
 
-``text
+```text
 Applications
      │
      ▼
@@ -74,7 +74,7 @@ Linux Kernel
      │
      ▼
 Hardware
-`
+```
 
 ### Areas I'm studying
 
